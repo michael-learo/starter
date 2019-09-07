@@ -1,0 +1,5 @@
+/out
+/cypress/integration/examples
+/cypress/fixtures
+/cypress/plugins
+/cypress/support
